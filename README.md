@@ -2,6 +2,6 @@
 ---
 ## A Cast Study by Abhishek Srivastava
 ---
-![Acorns](
+![Acorns](acorns-t.png)
 
 FinTech Bootcamp Assignment 1
