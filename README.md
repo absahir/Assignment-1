@@ -2,6 +2,6 @@
 ---
 ![Acorns](acorns-t.png)
 ---
-> A Case Study by Abhishek Srivastava
+> * A Case Study by Abhishek Srivastava
 
 FinTech Bootcamp Assignment 1
