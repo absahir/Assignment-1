@@ -72,7 +72,7 @@ However, even with a fraction of assets under management, Acorns tops these two 
 This can be understood by looking at Acorns and the competitor from a different perspective than mere the AUM figures.
 
 This is in contrast to technology startups like Acorms, who measure value on the size of their user base. Acorns’s AUM, as pointed above, is paltry $73.6M as compared to its competitor, It’s their user growth that deserves attention.
-
+![User Growth](https://github.com/absahir/Assignment-1/blob/main/screenshot-wmtoday-com-2016-03-07-why-acorns-is-the-only-roboadvisor-worth-1-billion-1608077645173.png)
 Another advantage with Acorns is that it is not claiming to provide the same range of services at Wealthfront or Betterment and is focussed on first-time, small-scale micro investors. Another advantage that is powering Acorns growth is the user friendly and seamless website and mobile app experience. This is keeping its ahead of its competitors like Stash. 
 
 Acorns has 7 ETF’s (exchange-traded funds) and when one signs up, it uses algortihms to select one for the user depending on the risk level you select. This limited when compared to a wider buffer of choices that are available with Betterment. However, where Acorns really scores it the ease of use of its application. UX designers have consisitently used its mobile app as a case study.
