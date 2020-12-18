@@ -32,7 +32,7 @@ Launched in 2014, Acorns positions itself as a technology-based driver of automa
 ## Origin and history:
 
 Today, Acorns straddles the domains of "save and micro-invest” and Robo-advisory services. The company was conceptualized and launched in by Walter Wemple Cruttenden III and Jeffrey James Cruttenden in 2014. Jeff is Walter's son. This father-son duo were inspired by the aim of improving long-term financial well-being of millennials, the Gen-Z and other gig-workers who face numerous barriers to investing (like high fees of investment, psychological barriers to regularly committing to the investment pool and the lack of expertise in time to actively manage their pool). 
-
+![Founders](https://github.com/absahir/Assignment-1/blob/main/552e5834eab8ea3865a7b510.jfif)
 
 > The founders were impressed by the idea of 'Nudge', proposed by behavioural economists like Nobel laureate Richard Thaler. They combined it with the power of FinTech to make it an effective choice architect for helping people make small, seamless and painless investment decisions.
 
@@ -40,7 +40,7 @@ Today, Acorns straddles the domains of "save and micro-invest” and Robo-adviso
 ## Trends in the industry: 
 
 There are a group of services that are growing concurrently in the market for small savings, demand must run deep. Acorns’ investing service, like most robo-advisors, is based on Modern Portfolio Theory created by Dr. Harry Markowitz. It has five optimized portfolios to choose from and automatically rebalances your portfolio and reinvests all dividend payments regularly.
-The Robo-advisory Services Market is expected to register a CAGR of approximately 50% during the forecast period (2020-2025) with North America being the largest market in terms of AUM. Further, amidst the global coronavirus outbreak, lockdown, and market uncertainty, a surge in B2B Robo-advisors, Digital investing, financial advice and portfolio management is witnessed globally. Several companies have reported an increase in digital investing activities by the investors in the first quarter of 2020 as compared to 2019. For instance, Betterment LLC reported an increase in the number of account openings by 25%, while Wealthfront Inc. reported an approximately 68% rise in digital investing activities since the market downturn.
+The Robo-advisory Services Market is expected to register *a CAGR of approximately 50% during the forecast period (2020-2025)* with North America being the largest market in terms of AUM. Further, amidst the global coronavirus outbreak, lockdown, and market uncertainty, a surge in B2B Robo-advisors, Digital investing, financial advice and portfolio management is witnessed globally. Several companies have reported an increase in digital investing activities by the investors in the first quarter of 2020 as compared to 2019. For instance, Betterment LLC reported an increase in the number of account openings by 25%, while Wealthfront Inc. reported an approximately 68% rise in digital investing activities since the market downturn.
 
 ## The competition:
 
