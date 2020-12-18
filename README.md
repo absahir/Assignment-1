@@ -1,8 +1,7 @@
 # Acorns: A behavioral approach to finacial wellness
 
 
-
-![](https://github.com/absahir/Assignment-1/blob/main/acorns-t.png)
+![](https://github.com/absahir/Assignment-1/blob/main/inviteB.d4899f96e1858d7c1e61787a9f72ea96.png)
 
 > ## A Case Study by Abhishek Srivastava
 
