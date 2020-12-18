@@ -3,7 +3,7 @@
 
 ![](https://github.com/absahir/Assignment-1/blob/main/inviteB.d4899f96e1858d7c1e61787a9f72ea96.png)
 
-> ## A Case Study by Abhishek Srivastava
+> ##                                                        A Case Study by Abhishek Srivastava
 
 ---
 [Table of Contents](#table-of-contents)
