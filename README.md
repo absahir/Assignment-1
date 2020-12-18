@@ -2,7 +2,7 @@
 
 
 
-![Acorns][acorns-t.png]
+![](https://github.com/absahir/Assignment-1/blob/main/acorns-t.png)
 
 > ## A Case Study by Abhishek Srivastava
 
@@ -44,7 +44,7 @@ The Robo-advisory Services Market is expected to register a CAGR of approximatel
 ## The competition:
 The Roboadvosr and microinvetment space is probably the most disrupted one after the payment space. 
 WaelthFornt, Betterment, Stash, SigFig, and Robinhood are all competing for the same cleint base. 
-![compeition][screenshot-www-statista-com-ezproxy-lib-uconn-edu-statistics-573291-aum-of-selected-robo-advisors-globally-1607961597666.png]
+
 Since the the whole point of going with a Robo-Advisor is the ease of use. Thus, all of them allow users to simplify their investment decisions. However, by variosu
 Unlike Acorns, which actually does the investing for you, Stash Invest simply makes investment recommendations, leaving it up to you to do the actual investing.
 > Features Unique to Acorns: 
@@ -65,6 +65,8 @@ The industry observers and the investors normally use the following two metrics 
 ## Acorn vs its competitors
 
 Acorns is not as big as its other competitors when it comes to AUM or employee size: Wealthfront is, with Betterment, the largest independent robo-advisor, are Acorns’ primary competitors. Wealthfronts, with over $24 billion in assets under management, is slightly larger than Bettermen, which has almost $21 billion in assets under management. Betterment is also the original Robo Advisor. 
+
+![compeition](screenshot-www-statista-com-ezproxy-lib-uconn-edu-statistics-573291-aum-of-selected-robo-advisors-globally-1607961597666.png)
 
 However, even with a fraction of assets under management, Acorns tops these two industry competitors at $ 860 million valuation, more than $700 million for betterment and $ 500 million valuation for Wealthfront. 
 This can be understood by looking at Acorns and the competitor from a different perspective than mere the AUM figures.
