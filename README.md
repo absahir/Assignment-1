@@ -41,6 +41,7 @@ Today, Acorns straddles the domains of "save and micro-invest” and Robo-adviso
 ## Trends in the industry: 
 
 There are a group of services that are growing concurrently in the market for small savings, demand must run deep. Acorns’ investing service, like most robo-advisors, is based on Modern Portfolio Theory created by Dr. Harry Markowitz. It has five optimized portfolios to choose from and automatically rebalances your portfolio and reinvests all dividend payments regularly.
+![](https://github.com/absahir/Assignment-1/blob/main/Untitled%20Document.png)
 The Robo-advisory Services Market is expected to register *a CAGR of approximately 50% during the forecast period (2020-2025)* with North America being the largest market in terms of AUM. Further, amidst the global coronavirus outbreak, lockdown, and market uncertainty, a surge in B2B Robo-advisors, Digital investing, financial advice and portfolio management is witnessed globally. Several companies have reported an increase in digital investing activities by the investors in the first quarter of 2020 as compared to 2019. For instance, Betterment LLC reported an increase in the number of account openings by 25%, while Wealthfront Inc. reported an approximately 68% rise in digital investing activities since the market downturn.
 
 ## The competition:
