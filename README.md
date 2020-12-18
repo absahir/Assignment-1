@@ -2,8 +2,9 @@
 
 
 ![](https://github.com/absahir/Assignment-1/blob/main/inviteB.d4899f96e1858d7c1e61787a9f72ea96.png)
-
+---
 > ##                                                        A Case Study by Abhishek Srivastava
+---
 
 ---
 [Table of Contents](#table-of-contents)
@@ -24,8 +25,6 @@
 
 ---
 
-Acrons: A behavioral approach to investment and savings
-
 ## Overview and Origin: 
  
 Launched in 2014, Acorns positions itself as a technology-based driver of automated micro-investment and savings, using principles of behavioural finance: Acorns’ CEO Noah Kerner describes the company as a “financial wellness system” . The company enables its subscribers to invest their spare change using a system it calls "round-ups." It tracks ones bank account and automatically invests the change from your daily purchases, thus lowering the pain of investment and savings decision making. Today, members can open an investment account, a savings (both for adults and children) account, as well as an IRA account while saving money through the company’s cashback program. Recently the company has also made forays into retirement planning.
@@ -41,8 +40,8 @@ There are a group of services that are growing concurrently in the market for sm
 The Robo-advisory Services Market is expected to register a CAGR of approximately 50% during the forecast period (2020-2025) with North America being the largest market in terms of AUM. Further, amidst the global coronavirus outbreak, lockdown, and market uncertainty, a surge in B2B Robo-advisors, Digital investing, financial advice and portfolio management is witnessed globally. Several companies have reported an increase in digital investing activities by the investors in the first quarter of 2020 as compared to 2019. For instance, Betterment LLC reported an increase in the number of account openings by 25%, while Wealthfront Inc. reported an approximately 68% rise in digital investing activities since the market downturn.
 
 ## The competition:
-The Roboadvosr and microinvetment space is probably the most disrupted one after the payment space. 
-WaelthFornt, Betterment, Stash, SigFig, and Robinhood are all competing for the same cleint base. 
+
+The Roboadvosr and microinvetment space is probably the most disrupted one after the payment space. WaelthFornt, Betterment, Stash, SigFig, and Robinhood are all competing for the same cleint base. 
 
 Since the the whole point of going with a Robo-Advisor is the ease of use. Thus, all of them allow users to simplify their investment decisions. However, by variosu
 Unlike Acorns, which actually does the investing for you, Stash Invest simply makes investment recommendations, leaving it up to you to do the actual investing.
