@@ -44,7 +44,7 @@ The Robo-advisory Services Market is expected to register a CAGR of approximatel
 ## The competition:
 The Roboadvosr and microinvetment space is probably the most disrupted one after the payment space. 
 WaelthFornt, Betterment, Stash, SigFig, and Robinhood are all competing for the same cleint base. 
-![]
+![compeition][screenshot-www-statista-com-ezproxy-lib-uconn-edu-statistics-573291-aum-of-selected-robo-advisors-globally-1607961597666.png]
 Since the the whole point of going with a Robo-Advisor is the ease of use. Thus, all of them allow users to simplify their investment decisions. However, by variosu
 Unlike Acorns, which actually does the investing for you, Stash Invest simply makes investment recommendations, leaving it up to you to do the actual investing.
 > Features Unique to Acorns: 
