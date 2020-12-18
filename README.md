@@ -80,7 +80,7 @@ Thus overall, once can say that Acorns has placed itself in a nice and whithin t
 
 ## Investors and the capital base:
 
-The company, widely seen as an emerging unicorn, has, since its launch, received 12 funding rounds of fundings. 
+The company, widely seen as an emerging unicorn, has, since its launch, received 12 rounds of fundings. 
 
 ![](https://github.com/absahir/Assignment-1/blob/main/screenshot-equityzen-com-company-acornsgrow-1608166256748.png)
 
