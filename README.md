@@ -139,6 +139,8 @@ For big data and cloud operations it uses Hadoop, Spark, Kafka, and AWS. For the
 > What can new areas Acorns can move into?
 
 Acorns is still primarily a saving and micro-ivesting platform. Although in recent year it has taken steps to expand its offerings by venturing into reitrement savings (Acorns Later) and investmentment for childern (Acorns Later), it has some distance to go. It would want to hold on to its cusotmers, who tend to migrate to other brokers once they have build a big enough nest egg, by offering them a premium service with a fuller control over their portfolio. Acorns is also best positioned to make a foray into offering non-conventional short-term, personalized and micro-insurance products. 
+
+In addition there is a huge unmeat demand for such services outseide the US, Acrons should look at expanding its global prsence. This will shore up its doemstic operations while expnading the suer base. 
   
 > Why wiil these services benefit the company? 
  
@@ -146,17 +148,18 @@ Acorns is still primarily a saving and micro-ivesting platform. Although in rece
   
 > What technologies would this additional product or service utilize? 
  
- Pretty much all of these offerings can be made using the current technology available with 
+ Pretty much all of these offerings can be made using the current technology available with Acorns. However, upcoming technologies like Blockchain can help Acorns in making foray into peer to peer transaction and can grow into a full fledged financial institution.
 
+ > Why are these technologies appropriate for your solution? 
  
-
-* Why are these technologies appropriate for your solution? 
- 
+ All the technologies in Acorns stack are scalable and flexible enought to help it expand its offerings. 
  
    
- ## Conclusion
+ ## Conclusion: 
+ 
+ Currently Acorns is placed in a safe niche with no immediate threats. The growth of its customer base is growing and that in turn ins fuelling its growth. However, the small size of its typical client's holdings and the limited flexibility of its current investments options can be a strain on the sustainablity of its business model. Thus, it is high time Acorns shifts gears and boldly embaraces new areas of growth and leverages new technoolgies to grow domestically and internaltionally. 
 
-AbhiPLACEHOLDER
+Acorns has 
 
  ## Reference
  
@@ -164,50 +167,32 @@ AbhiPLACEHOLDER
 
 2) https://www.stlouisfed.org/open-vault/2018/march/millennials-not-investing-stock-market
 
-2) Blackrock.com
+3) https://sec.report/CIK/0001578860
 
-3) wsj.com
+4) Blackrock.com
 
-4) https://kwhs.wharton.upenn.edu/2019/01/acorns-jennifer-barrett-5-facts-fintech/
+4) wsj.com
 
-5) https://www.forbes.com/sites/donnafuscaldo/2020/06/30/acorns-targets-babies-with-new-custodial-account/?sh=499f076aeec6
+6) https://kwhs.wharton.upenn.edu/2019/01/acorns-jennifer-barrett-5-facts-fintech/
 
-6) https://stackshare.io/acorns/acorns
+7) https://www.forbes.com/sites/donnafuscaldo/2020/06/30/acorns-targets-babies-with-new-custodial-account/?sh=499f076aeec6
 
-7) https://www.chicagotribune.com/business/sns-201808141537--tms--savagectnts-a20180814-20180814-column.html
+8) https://stackshare.io/acorns/acorns
 
-8) https://www.crunchbase.com/organization/acorns-grow
+9) https://www.chicagotribune.com/business/sns-201808141537--tms--savagectnts-a20180814-20180814-column.html
 
-9) https://grow.acorns.com/covid-financial-reset-for-millenials-gen-z/
+10) https://www.crunchbase.com/organization/acorns-grow
 
-10) https://techcrunch.com/tag/acorns/
+11) https://grow.acorns.com/covid-financial-reset-for-millenials-gen-z/
 
-11) Wikipedia.com
+12) https://techcrunch.com/tag/acorns/
 
+13) Wikipedia.com
 
+14) https://techcrunch.com/2020/05/29/amid-unprecedented-growth-on-its-platform-acorns-cuts-roles-and-shuts-down-an-office/ 
 
-
-
-
-
-
-2) https://techcrunch.com/2020/05/29/amid-unprecedented-growth-on-its-platform-acorns-cuts-roles-and-shuts-down-an-office/ 
-
-Fintech start-up Acorns valued at $860 million after latest funding round 
-
-https://www.cnbc.com/2019/01/28/fintech-start-up-acorns-valued-at-860-million-after-latest-funding-round.html 
+15) https://www.cnbc.com/2019/01/28/fintech-start-up-acorns-valued-at-860-million-after-latest-funding-round.html 
+ 
+16) https://www.mordorintelligence.com/industry-reports/robo-advisory-services-market 
 
  
-
- 
-
-https://www.mordorintelligence.com/industry-reports/robo-advisory-services-market 
-
- 
-
- 
-
-AbhiPlaceholder
-
-
-
