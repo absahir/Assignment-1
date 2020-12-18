@@ -107,7 +107,13 @@ Acorns has three major streams of revenue.
 
 ## Target customer base and its characteristics: 
 
-The average Acorns customer is around 32 years old with an income between $50,000 and $60,000. They are focussed on catering to the investment and savings needs of the millennials and the up and coming Gen-Z. However, with an expanding service offerings, Acorns in attracting an even more diverse set of customers.
+The average Acorns customer is around 32 years old with an income between $50,000 and $60,000. They are focussed on catering to the investment and savings needs of the millennials and the up and coming Gen-Z. Economists agree that the millenials and the gen Z users are the most underprotected when it comes to savings and investments
+![Target Customers](https://github.com/absahir/Assignment-1/blob/main/Millenial.PNG)
+
+Unliken many of its cometitiors Acors is very focussed on whom it is targetting: For now it is targetting to enroll firs-time savers who have small capital base and almost not nest-egg. This saves it from directly competing for consumer base that might have some savings and experience with investment and would idealli like to have more flexibility and control over the way their money is grown. Acorns amangement seems to recognize this fact that its consumer base, because of its low capital base, is fickle and more services might be needed to lock them in. As a result of this recognition Acorns has rolled out services like retirement savings (Acorns Later) and savings for kids (Acorns Early).
+
+Acrons is serving a tech-savy cusotmer base that keeps demanding ease of use and exceptional services. So far, Acrons seems to be doing well on both these parameters. 
+
 
 ## Business Impact:
  
@@ -148,7 +154,53 @@ Acorns is still primarily a saving and micro-ivesting platform. Although in rece
 AbhiPLACEHOLDER
 
  ## Reference
+ 
+1) https://www.acorns.com/about/
 
+2) https://www.stlouisfed.org/open-vault/2018/march/millennials-not-investing-stock-market
+
+2) Blackrock.com
+
+3) wsj.com
+
+4) https://kwhs.wharton.upenn.edu/2019/01/acorns-jennifer-barrett-5-facts-fintech/
+
+5) https://www.forbes.com/sites/donnafuscaldo/2020/06/30/acorns-targets-babies-with-new-custodial-account/?sh=499f076aeec6
+
+6) https://stackshare.io/acorns/acorns
+
+7) https://www.chicagotribune.com/business/sns-201808141537--tms--savagectnts-a20180814-20180814-column.html
+
+8) https://www.crunchbase.com/organization/acorns-grow
+
+9) https://grow.acorns.com/covid-financial-reset-for-millenials-gen-z/
+
+10) https://techcrunch.com/tag/acorns/
+
+11) Wikipedia.com
+
+
+
+
+
+
+
+
+2) https://techcrunch.com/2020/05/29/amid-unprecedented-growth-on-its-platform-acorns-cuts-roles-and-shuts-down-an-office/ 
+
+Fintech start-up Acorns valued at $860 million after latest funding round 
+
+https://www.cnbc.com/2019/01/28/fintech-start-up-acorns-valued-at-860-million-after-latest-funding-round.html 
+
+ 
+
+ 
+
+https://www.mordorintelligence.com/industry-reports/robo-advisory-services-market 
+
+ 
+
+ 
 
 AbhiPlaceholder
 
