@@ -80,7 +80,11 @@ Thus overall, once can say that Acorns has placed itself in a nice and whithin t
 
 ## Investors and the capital base:
 
-The company, widely seen as an emerging unicorn, has, since its launch, received 12 funding rounds of fundings. It currently has, as investors, giants like:
+The company, widely seen as an emerging unicorn, has, since its launch, received 12 funding rounds of fundings. 
+
+![](https://github.com/absahir/Assignment-1/blob/main/screenshot-equityzen-com-company-acornsgrow-1608166256748.png)
+
+It currently has, as investors, giants like:
  * PayPal
  * Blackrock, 
  * Bain Capital, 
@@ -88,6 +92,7 @@ The company, widely seen as an emerging unicorn, has, since its launch, received
  * Ashton Kutcher
  * Jennifer Lopez, and
  * Dwayne Johnson
+ 
 
  In the latest publicly declared E-series funding in January 2019, the company attracted $105 million in cash from a host of investors like:
  * Comcast Ventures
