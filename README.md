@@ -116,7 +116,11 @@ The average Acorns customer is around 32 years old with an income between $50,00
 ## Technology behind Acrons:
 
 Acorns, being FinTech a firm, banks on the seamless web-based and mobile app safety and experience.  
-Acorns uses  Java, Scala, and Python for major development purposes. For big data and cloud operations it uses Hadoop, Spark, Kafka, and AWS. For the purposes of information encryption. Acorns uses the industry standard 256-bit encryption for its mobile app and website. This means your personal and financial information can only be accessed by you and Acorns.
+Acorns uses  Java, Scala, and Python for major development purposes. 
+
+![Acorns Technology](https://github.com/absahir/Assignment-1/blob/main/screenshot-stackshare-io-acorns-acorns-1608266781436.png)
+
+For big data and cloud operations it uses Hadoop, Spark, Kafka, and AWS. For the purposes of information encryption. Acorns uses the industry standard 256-bit encryption for its mobile app and website. This means your personal and financial information can only be accessed by you and Acorns.
 
 
 ## Recommendations:
