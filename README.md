@@ -31,10 +31,11 @@ Launched in 2014, Acorns positions itself as a technology-based driver of automa
 
 ## Origin and history:
 
-Today, Acorns straddles the domains of "save and micro-invest” and Robo-advisory services. The company was conceptualized and launched in by Walter Wemple Cruttenden III and Jeffrey James Cruttenden in 2014. Jeff is Walter's son. This father-son duo were inspired by the aim of improving long-term financial well-being of millennials, the Gen-Z and other gig-workers who face numerous barriers to investing (like high fees of investment, psychological barriers to regularly committing to the investment pool and the lack of expertise in time to actively manage their pool). 
+Today, Acorns straddles the domains of "save and micro-invest” and Robo-advisory services. The company was conceptualized and launched in by Walter Wemple Cruttenden III and Jeffrey James Cruttenden in 2014. Jeff is Walter's son. This father-son duo were inspired by the aim of improving long-term financial well-being of millennials, the Gen-Z and other gig-workers who face numerous barriers to investing (like high fees of investment, high minimum balance requirements, psychological barriers to regularly committing to the investment pool and the lack of expertise in time to actively manage their pool). The set it-forget it system is bonehead simple. Your “spare change” from linked credit and debit card purchases is rounded up to the nearest dollar and invested in six different funds, based on your risk tolerance. It’s a confidence builder, especially if you’re wary of brokerage houses and/or find yourself with limited resources.
+
 ![Founders](https://github.com/absahir/Assignment-1/blob/main/552e5834eab8ea3865a7b510.jfif)
 
-> The founders were impressed by the idea of 'Nudge', proposed by behavioural economists like Nobel laureate Richard Thaler. They combined it with the power of FinTech to make it an effective choice architect for helping people make small, seamless and painless investment decisions.
+> The founders were impressed by the idea of 'Nudge', proposed by behavioural economists like Nobel laureate Richard Thaler. They combined it with the power of FinTech to make it an effective choice architect for helping people make small, seamless and painless investment decisions. The idea, as Jeff Cruttendedn sum it up, is to make the process of investing money is “automatic and mindless".
 
 
 ## Trends in the industry: 
@@ -176,26 +177,28 @@ Acorns has
 
 4) wsj.com
 
-6) https://kwhs.wharton.upenn.edu/2019/01/acorns-jennifer-barrett-5-facts-fintech/
+5) https://www.moneyunder30.com/how-we-save-jeff-cruttenden-acorns
 
-7) https://www.forbes.com/sites/donnafuscaldo/2020/06/30/acorns-targets-babies-with-new-custodial-account/?sh=499f076aeec6
+7) https://kwhs.wharton.upenn.edu/2019/01/acorns-jennifer-barrett-5-facts-fintech/
 
-8) https://stackshare.io/acorns/acorns
+8) https://www.forbes.com/sites/donnafuscaldo/2020/06/30/acorns-targets-babies-with-new-custodial-account/?sh=499f076aeec6
 
-9) https://www.chicagotribune.com/business/sns-201808141537--tms--savagectnts-a20180814-20180814-column.html
+9) https://stackshare.io/acorns/acorns
 
-10) https://www.crunchbase.com/organization/acorns-grow
+10) https://www.chicagotribune.com/business/sns-201808141537--tms--savagectnts-a20180814-20180814-column.html
 
-11) https://grow.acorns.com/covid-financial-reset-for-millenials-gen-z/
+11) https://www.crunchbase.com/organization/acorns-grow
 
-12) https://techcrunch.com/tag/acorns/
+12) https://grow.acorns.com/covid-financial-reset-for-millenials-gen-z/
 
-13) Wikipedia.com
+13) https://techcrunch.com/tag/acorns/
 
-14) https://techcrunch.com/2020/05/29/amid-unprecedented-growth-on-its-platform-acorns-cuts-roles-and-shuts-down-an-office/ 
+14) Wikipedia.com
 
-15) https://www.cnbc.com/2019/01/28/fintech-start-up-acorns-valued-at-860-million-after-latest-funding-round.html 
+15) https://techcrunch.com/2020/05/29/amid-unprecedented-growth-on-its-platform-acorns-cuts-roles-and-shuts-down-an-office/ 
+
+16) https://www.cnbc.com/2019/01/28/fintech-start-up-acorns-valued-at-860-million-after-latest-funding-round.html 
  
-16) https://www.mordorintelligence.com/industry-reports/robo-advisory-services-market 
+17) https://www.mordorintelligence.com/industry-reports/robo-advisory-services-market 
 
  
