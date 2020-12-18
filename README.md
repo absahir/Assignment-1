@@ -1,4 +1,4 @@
-# Acorns: A behavioral approach to finacial wellness
+# Acorns: A Behavioral Approach to Finacial Wellness
 
 
 ![](https://github.com/absahir/Assignment-1/blob/main/inviteB.d4899f96e1858d7c1e61787a9f72ea96.png)
@@ -31,8 +31,11 @@ Launched in 2014, Acorns positions itself as a technology-based driver of automa
 
 ## Origin and history:
 
-The company was conceptualized and launched in by Walter Wemple Cruttenden III and Jeffrey James Cruttenden in 2014. Jeff is Walter's son. This father-son duo were inspired by the aim of improving long-term financial well-being of millennials, the Gen-Z and other gig-workers who face numerous barriers to investing (like high fees of investment, psychological barriers to regularly committing to the investment pool and the lack of expertise in time to actively manage their pool). The founders were impressed by the idea of 'Nudge', proposed by behavioural economists like Nobel laureate Richard Thaler. They combined it with the power of FinTech to make it an effective choice architect for helping people make small, seamless and painless investment decisions.
-Thus, Acorns straddles the domains of "save and micro-invest” and Robo-advisory services. 
+Today, Acorns straddles the domains of "save and micro-invest” and Robo-advisory services. The company was conceptualized and launched in by Walter Wemple Cruttenden III and Jeffrey James Cruttenden in 2014. Jeff is Walter's son. This father-son duo were inspired by the aim of improving long-term financial well-being of millennials, the Gen-Z and other gig-workers who face numerous barriers to investing (like high fees of investment, psychological barriers to regularly committing to the investment pool and the lack of expertise in time to actively manage their pool). 
+
+
+> The founders were impressed by the idea of 'Nudge', proposed by behavioural economists like Nobel laureate Richard Thaler. They combined it with the power of FinTech to make it an effective choice architect for helping people make small, seamless and painless investment decisions.
+
 
 ## Trends in the industry: 
 
